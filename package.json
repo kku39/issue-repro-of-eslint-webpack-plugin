@@ -1,0 +1,11 @@
+{
+  "name": "issue-repro-of-eslint-webpack-plugin",
+  "description": "",
+  "main": "./index.ts",
+  "type": "module",
+  "devDependencies": {
+    "eslint-webpack-plugin": "^4.2.0",
+    "webpack": "^5.93.0",
+    "webpack-cli": "^5.1.4"
+  }
+}
